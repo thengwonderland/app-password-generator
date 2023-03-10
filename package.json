@@ -1,8 +1,8 @@
 {
-  "name": "random-password-generator",
+  "name": "password-generator",
   "version": "0.1.0",
   "private": true,
-  "description": "Random Password Generator",
+  "description": "Password Generator",
   "keywords": [
     "react",
     "password",
@@ -10,8 +10,8 @@
     "generator"
   ],
   "author": {
-    "name": "Kashyap Merai",
-    "url": "http://kamerk22.github.io"
+    "name": "Sievtheng Dara",
+    "url": "http://thengwonderland.github.io"
   },
   "license": "MIT",
   "dependencies": {
@@ -23,7 +23,7 @@
   "devDependencies": {
     "gh-pages": "^2.0.1"
   },
-  "homepage": "http://kamerk22.github.io/random-password-generator",
+  "homepage": "http://thengwonderland.github.io/app-password-generator",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
